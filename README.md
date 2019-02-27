@@ -1,2 +1,0 @@
-# ASOCIACIONES
-Dsarrollo de App
